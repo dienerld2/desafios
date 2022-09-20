@@ -1,4 +1,4 @@
-import { minorDistance } from '../_solution';
+import { minorDistance } from '../solution';
 
 describe('minorDistance', () => {
   it('should return Array 2D - 2 steps', () => {
