@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test:minor": "jest minor-distance",
+    "test:prefix": "jest prefix"
   },
   "devDependencies": {
     "@types/jest": "^29.0.3",
