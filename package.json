@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "test:minor": "jest minor-distance",
-    "test:prefix": "jest prefix"
+    "test:prefix": "jest prefix",
+    "test:bin2dec": "jest bin-to-dec"
   },
   "devDependencies": {
     "@types/jest": "^29.0.3",
