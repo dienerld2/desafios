@@ -1,4 +1,4 @@
-import { bin2Dec } from '../_solution';
+import { bin2Dec } from '../solution';
 
 describe('Bin2Dec', () => {
   it('should correct return when send "101"', () => {
